@@ -14,8 +14,7 @@ bbfreeze - create stand-alone executables from python scripts
 Overview
 ======================================================================
 bbfreeze creates stand-alone executables from python scripts. It's
-similar in purpose to the well known py2exe_ for windows, py2app_ for
-OS X, PyInstaller_ and cx_Freeze_ (in fact ancient versions were based
+similar in purpose to the well known py2exe_ for windows, PyInstaller_ and cx_Freeze_ (in fact ancient versions were based
 on cx_Freeze. And it uses the modulegraph_ package, which is also used by
 py2app).
 
